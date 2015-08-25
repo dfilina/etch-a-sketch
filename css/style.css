@@ -1,0 +1,25 @@
+body {
+	padding-top: 50px;
+}
+
+.container {
+	max-width: 960px;
+	width: 960px;
+}
+
+.grid {
+	max-height: 960px;
+	height: 960px;
+	font-size: 0;
+}
+
+.grid-cell {
+	display: inline-block;
+/* 	border: 1px solid #CCC; */
+	background-color: #CCC;
+	margin: 0;
+}
+
+.blackened {
+	background-color: #000;
+}
